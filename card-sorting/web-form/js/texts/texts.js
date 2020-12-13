@@ -6,7 +6,7 @@ var texts = {
         `Essa atividade dura em torno de <b>10 a 15 minutos</b> para ser completada. É rápido e sua contribuição será muito valiosa na pesquisa!`,
     ],
     introPreAuth: [
-        `Para começar, coloque seu nome e sobrenome`,
+        `Para começar, coloque seu nome`,
     ],
     start: [`Iniciar`],
     nameInputPlaceholder: [`Digite seu nome`],
