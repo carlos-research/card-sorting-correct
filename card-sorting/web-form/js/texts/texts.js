@@ -27,21 +27,21 @@ var texts = {
             title: [`Passo 1`],
             text: [
                 `Olhe os cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards entre seis colunas (dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias, desempenho organizacional) de forma que façam sentido para você.`,
+                `Sua tarefa será organizar esses cards entre quatro colunas (dinamismo ambiental, capacidade de transformação digital, digitalização nas capacidades ordinárias, desempenho organizacional) de forma que façam sentido para você.`,
                 `Arraste um dos cards para a direita para criar a primeira coluna (grupo).`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados entre as seis colunas propostas. Agrupe cartões que você considera relacionados. Você pode posicionar os cartões entre as 6 colunas e formar grupos com o número de cartões que considerar adequado!`,
+                `Mova os cartões ao lado até que todos estejam agrupados entre as quatro colunas propostas. Agrupe cartões que você considera relacionados. Você pode posicionar os cartões entre as 4 colunas e formar grupos com o número de cartões que considerar adequado!`,
                 `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong> verifique se constam os 6 grupos</strong> propostos. Lembrando os grupos: dinamismo ambiental, sensing, seizing, transforming, digitalização das capacidades ordinárias, desempenho organizacional.`,
+                `Revise os grupos e <strong> verifique se constam os 4 grupos</strong> propostos. Lembrando os grupos: dinamismo ambiental, capacidade de transformação digital, digitalização nas capacidades ordinárias, desempenho organizacional.`,
             ]
         },
         {
