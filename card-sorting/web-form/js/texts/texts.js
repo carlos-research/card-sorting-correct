@@ -2,7 +2,7 @@ var texts = {
     appTitle: [ `Open Card Sorter` ],
     introTitle: [ `Vamos começar%userNameComma?` ],
     introText: [
-        `Nesta atividade de card sorting, conto com a sua colaboração para verificar qual o seu entendimento da melhor relação entre os construtos (grupos) e itens (cards) propostos.`,
+        `Nesta atividade de card sorting, conto com a sua colaboração para verificar qual o seu entendimento da melhor relação entre os construtos (grupos/colunas) e itens (cards/cartões) propostos.`,
         `Essa atividade dura em torno de <b>10 a 15 minutos</b> para ser completada. É rápido e sua contribuição será muito valiosa na pesquisa!`,
     ],
     introPreAuth: [
@@ -27,27 +27,27 @@ var texts = {
             title: [`Passo 1`],
             text: [
                 `Olhe os cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards entre quatro colunas (dinamismo ambiental, capacidade de transformação digital, digitalização nas capacidades ordinárias, desempenho organizacional) de forma que façam sentido para você.`,
+                `Sua tarefa será organizar esses cards entre seis colunas (1- dinamismo ambiental, 2- habilidades digitais, 3- condições para ação e interação, 4- processos de intensificação digital, 5- digitalização das atividades administrativas, operacionais e de governança, 6- desempenho organizacional) de forma que façam sentido para você.`,
                 `Arraste um dos cards para a direita para criar a primeira coluna (grupo).`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados entre as quatro colunas propostas. Agrupe cartões que você considera relacionados. Você pode posicionar os cartões entre as 4 colunas e formar grupos com o número de cartões que considerar adequado!`,
+                `Mova os cartões ao lado até que todos estejam agrupados entre as seis colunas propostas. Agrupe cartões que você considera relacionados. Você pode posicionar os cartões entre as 6 colunas e formar grupos com o número de cartões que considerar adequado!`,
                 `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong> verifique se constam os 4 grupos</strong> propostos. Lembrando os grupos: dinamismo ambiental, capacidade de transformação digital, digitalização nas capacidades ordinárias, desempenho organizacional.`,
+                `Revise os grupos e <strong> verifique se constam os 6 grupos</strong> propostos. Lembrando os grupos: dinamismo ambiental; habilidades digitais; condições para ação e interação; processos de intensificação digital; digitalização das atividades administrativas, operacionais e de governança; desempenho organizacional.`,
             ]
         },
         {
             title: [`Passo 4`],
             text: [
-                `Certifique-se de ordenar os cards mais relevantes para cima e os menos relevantes para baixo em cada grupo.`,
+                `Revise novamente se considera que os cards estão nas colunas certas de acordo com a sua percepção. NÃO se preocupe em ordenar os cards mais relevantes para cima e os menos relevantes para baixo em cada grupo.`,
             ]
         },
         {
